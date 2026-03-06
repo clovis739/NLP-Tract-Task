@@ -241,6 +241,7 @@ Traditional keyword matching fails when a resume says *"Python developer with ML
 - Python 3.9+
 - Anaconda (recommended) or any virtual environment
 - Jupyter Notebook or JupyterLab
+<img width="2685" height="1508" alt="wordclouds" src="https://github.com/user-attachments/assets/dc78d046-5ed9-491c-802a-6e962c305bb3" />
 
 ### Install all dependencies
 ```bash
@@ -281,3 +282,8 @@ python -m spacy download en_core_web_lg
 ---
 
 > **Note:** All datasets except CoNLL-2003 are loaded automatically from Hugging Face . no manual downloads required. For Task 4, place the CoNLL-2003 files in the same directory as the notebook before running.
+<img width="1891" height="735" alt="tag_distribution" src="https://github.com/user-attachments/assets/25f7c7cc-9c50-4cbd-bdd8-60261bd42cdb" />
+
+<img width="1785" height="737" alt="model_comparison" src="https://github.com/user-attachments/assets/f72311f8-e07f-4b8a-a78e-c60e4238d28b" />
+<img width="1065" height="887" alt="confusion_matrix" src="https://github.com/user-attachments/assets/a42625bb-8119-4559-8d85-19edee9cc7c0" />
+
